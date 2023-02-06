@@ -1,0 +1,96 @@
+body {
+    background-color: rgb(253, 253, 253);
+    font-family:'Inter', sans-serif;
+    font-size: 120%;
+    color: rgb(41, 49, 51);
+
+ 
+}
+header .brand{
+    color:black;
+    font-family:'inter', Georgia;
+    font-size: 170%;
+    padding: 40px;
+}
+header .brand span{
+    font-size:40%;
+    font-family: 'Pacifico' , sans-serif;
+    padding:20px;
+    color: black,;
+}
+.wrapper{
+    background-color:#fff;
+    width: 1600px;
+    margin: 0 auto;
+    border-radius: 20px;
+ 
+}
+
+
+content {
+    overflow: hidden;
+    display: block;
+    padding:50px;
+}
+main {
+    float: left;
+    width: 70%;
+}
+footer {
+    text-align: center;
+    padding:20px;
+    font-size: 90%;
+   clear: both;
+   display: block;
+   
+}
+aside {
+    float: right;
+}
+aside .section {
+    background-color: #e6f7cc;
+    padding: 30px;
+    box-sizing: border-box;
+  
+}
+
+aside .section h3{
+    background-color: #a895eb;
+    color: #fff;
+    padding: 20px;
+    margin-top: 0;
+}
+.hero {
+    height: 400px;
+    background: #68bba1 url('house.jpg') center no-repeat;
+}
+.hero1 {
+    height: 400px;
+    background: #68bba1 url('dallol.jpg') center no-repeat;
+}
+a{
+    color:#333;
+}
+a:hover {
+    color: #0062ff;
+}
+aside ul {
+    list-style:none;
+    margin: 0;
+    padding: 0;
+}
+aside a{
+    padding:10px 0 ;
+    display:block;
+}
+article{
+    margin-top: 60px;
+    margin-bottom:60px;
+}
+article p{
+    margin-top: 25px;
+    font-size: 100%;
+    color: #333;
+    padding: 0;
+
+}
